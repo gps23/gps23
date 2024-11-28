@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @gps23
-- 👀 I’m interested in ...data analytics
+- 👋 Hi, I’m Prajasree
 - 🌱 I’m currently learning ...information technolgy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pg9289@srmist.edu.in
